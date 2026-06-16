@@ -10,6 +10,7 @@ Quite an ambitious list I would say. Some of these might not be required. But, a
 On my mind to be completed (in no specific timeframe/order):
 
 - <a href="https://github.com/jax-ml/scaling-book">JAX Scaling</a>
+- <a href="https://www.statlearning.com/">Introduction to Statistical Learning (with Python)</a>
 - <a href="https://github.com/HandsOnLLM/Hands-On-Large-Language-Models">Hands on LLM</a>
 - <a href="https://use-the-index-luke.com/">Use the Index, Luke!</a>
 - <a href="https://www.sqlskills.com/help/accidental-dba/">Accidental DBA</a>
@@ -28,9 +29,10 @@ On my mind to be completed (in no specific timeframe/order):
 # The road ahead
 How it is going
 
-|What|Progress|%|Last accessed on|Started on|
+|What|Progress|%|Last access|Started on|
 |-|-|-|-|-|
 |JAX Scaling|||||
+|ISLP|||||
 |Hands on LLM|||||
 |Use the index, Luke|||||
 |Accidental DBA|||||
@@ -39,7 +41,7 @@ How it is going
 |AOSA|||||
 |MSoCSEd|||||
 |HTBLLM (from scratch)|||||
-|Intro 2 ML w/ Py|||||
+|Intro 2 ML w/ Py|3 / 38|~ 7%|16 June 26|16 June 26|
 
 # The road so far
 To be added soon!
