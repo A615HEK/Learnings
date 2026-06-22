@@ -41,7 +41,7 @@ How it is going
 |AOSA|||||
 |MSoCSEd|||||
 |HTBLLM (from scratch)|||||
-|Intro 2 ML w/ Py|3 / 38|~ 7%|16 June 26|16 June 26|
+|Intro 2 ML w/ Py|5 / 38|~ 13%|22 June 26|16 June 26|
 
 # The road so far
 To be added soon!
